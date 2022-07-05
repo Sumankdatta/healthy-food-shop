@@ -35,3 +35,9 @@ section {
     font-weight: 700;
 
 }
+
+.about-banner {
+    background-image: url(7.png);
+    background-repeat: no-repeat;
+    width: 80%;
+}
